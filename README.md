@@ -2,7 +2,9 @@ English 🇬🇧/🇺🇸
 - 👋 Hi, I’m @DanielFeli2006
 - 👀 I’m interested in Programming, games, drawing, music, and movies.
 - 🌱 I’m currently learning At SENA (National Apprenticeship Service) in Colombia [2024-2026] In the technologist/career Software analysis and developmen.
-- 😄 Pronouns: Daniel
+- 😄 Pronouns: Daniel.
+
+
 Spanish 🇨🇴/🇪🇸
 - 👋 Hola, soy @DanielFeli2006
 - 👀 Me interesa la Programación, los juegos, el dibujo, la música y las películas.
