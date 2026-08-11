@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! Soy Daniel Medina 👋</h1>
-<h3 align="center">Fullstack Developer en formación | Software Analyst & Developer in training — Colombia 🇨🇴</h3>
+<h3 align="center">Fullstack Developer en formación | Software Analyst & Developer in training Colombia 🇨🇴</h3>
 
 <p align="center"><i>@DanielFeli2006</i></p>
 
