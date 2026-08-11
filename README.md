@@ -11,7 +11,7 @@ Soy Daniel, desarrollador fullstack en formación, con base en Colombia. Me apas
 
 ## 🇬🇧 About Me
 
-Hi, I'm Daniel — a fullstack developer in training, based in Colombia. I'm passionate about programming, games, drawing, music, and movies. I currently combine technical training with hands-on software development experience.
+Hi, I'm Daniel, a fullstack developer in training, based in Colombia. I'm passionate about programming, games, drawing, music, and movies. I currently combine technical training with hands-on software development experience.
 
 ---
 
@@ -97,9 +97,9 @@ Hi, I'm Daniel — a fullstack developer in training, based in Colombia. I'm pas
 
 ## 🎮 Intereses Personales / Personal Interests
 
-**🇪🇸** Más allá del código, disfruto de los videojuegos, el dibujo, la música y las películas — un buen equilibrio entre tecnología y creatividad.
+**🇪🇸** Más allá del código, disfruto de los videojuegos, el dibujo, la música y las películas, un buen equilibrio entre tecnología y creatividad.
 
-**🇬🇧** Beyond code, I enjoy video games, drawing, music, and movies — a good balance between technology and creativity.
+**🇬🇧** Beyond code, I enjoy video games, drawing, music, and movies, a good balance between technology and creativity.
 
 ---
 
@@ -111,24 +111,6 @@ Hi, I'm Daniel — a fullstack developer in training, based in Colombia. I'm pas
 </p>
 
 ---
-
-## 📊 Estadísticas de GitHub / GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=danielfeli2006&show_icons=true&locale=en&theme=default" alt="danielfeli2006 stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfeli2006&layout=compact&locale=en" alt="danielfeli2006 top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielfeli2006" alt="danielfeli2006 streak stats" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielfeli2006" alt="danielfeli2006 trophies" /></a>
-</p>
-
----
-
 <!---
 DanielFeli2006/DanielFeli2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
